@@ -44,7 +44,6 @@ PRODUCT_PACKAGES += \
     CertInstaller \
     clatd \
     clatd.conf \
-    DocumentsUI \
     DownloadProviderUi \
     EasterEgg \
     ExternalStorageProvider \
